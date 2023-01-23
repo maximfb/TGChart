@@ -1,10 +1,10 @@
 # TGChart
 Vanilla JavaScript application for rendering Telegram charts.
 
-Look on the GitHub Pages - https://frizzproject.github.io/TGChart/
+Look on the GitHub Pages - https://maximfb.github.io/TGChart/
 ## Run
 ```sh
-git clone https://github.com/frizzproject/TGChart.git
+git clone https://github.com/maximfb/TGChart.git
 ```
 ```sh
 npm install
